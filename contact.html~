@@ -16,67 +16,29 @@
 	<![endif]-->
 </head>
 <body>
-	<div id="wrapper">
+	<div id="wrapper" class="portfolio">
 		<div class="wrapper-holder">
 			<header id="header">
 				<a class="menu_trigger" href="#">menu</a>
 					<nav id="nav">
 						<ul>
-							<li><a class="active" href="index.html">Home</a></li>
+							<li><a href="index.html">Home</a></li>
 							<li><a href="myskills.html">My skills</a></li>
 							<li><a href="portfolio.html">Portfolio</a></li>
-							<li><a href="contact.html">Contact</a></li>
+							<li><a class="active" href="contact.html">Contact</a></li>
 						</ul>
 					</nav>
-				<h1 class="logo">Nasibo Abubakar</h1>
-				<h2 class="slogan">web designer
-</h2>
 			</header>
 		</div>
 		<div class="wrapper-holder grey">
 			<section id="main">
-				<h2>Here are my biggest achievements</h2>
-				<div class="box_timeline_holder">
-					<div class="box_timeline">
-						<ul>
-							<li>
-								<div class="date">
-									<span>12/09</span>
-								</div>
-								<h3>Becoming the best programmer</h3>
-								<p>I am a student at tunapanda institute studing programming and design for three month intensive training
-							</li>
-							<li>
-								<div class="date">
-									<span>02/10</span>
-								</div>
-								<h3>best in blender</h3>
-								<p>i have been able to use blender to create different object</p>
-							</li>
-							<li>
-								<div class="date">
-									<span>09/11</span>
-								</div>
-								<h3>Videographer</h3>
-								<p>able to create cool videos and comming up with smoth flow of audios </p>
-							</li>
-							<li>
-								<div class="date">
-									<span>06/12</span>
-								</div>
-								<h3>Being a designer</h3>
-								<p>best in designing different types of logos </p>
-							</li>
-							<li>
-								<div class="date">
-									<span>11/13</span>
-								</div>
-								<h3>Web design</h3>
-								<p>able to design web site</p>
-							</li>
-						</ul>
-					</div>
+				<div class="images/nasibo.png"><img src="images/pic_08.png" alt=""></div>
+				<div class="box_contact">
+					<span class="email">nasiboabubakar@gmail.com</span>
+					<span class="phone">+254703163674</span>
+					
 				</div>
+				<div class="clear"></div>
 			</section>
 		</div>
 		<footer id="footer">
@@ -88,7 +50,7 @@
 					<li class="twitter"><a href="#">Twitter</a></li>
 					<li class="pinterest"><a href="#">Pinterest</a></li>
 				</ul>
-				<p class="copy">Copyright 2018 Nasibo Abubakar. All rights reserved.</p>
+				<p class="copy">Copyright 2014 John Markowitz. All rights reserved.</p>
 			</div>
 		</footer>	
 	</div>
